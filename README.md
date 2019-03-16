@@ -15,3 +15,5 @@ The x denotes the width and y denotes the height. So for a thumbnail preview of 
 size = 300, 300
 
 I created an input value for x and y to allow user to specify the size of the thumbnail.
+
+The images that will be generated into a thumbnail must be placed in the same folder or directory as the thumbnails.py file that contains the code.
