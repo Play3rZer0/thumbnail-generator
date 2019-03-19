@@ -29,4 +29,4 @@ for infile in glob.glob("*.jpg"):
     im.thumbnail(size)
     im.save(file + "tb.JPG", "JPEG")
     
-
+####
